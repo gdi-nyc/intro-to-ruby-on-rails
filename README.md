@@ -16,7 +16,7 @@ Topics covered:
 
 Tools used: repl.it online Ruby repl.
 
-Slides here: https://gtan66.github.io/ruby-gdi-nyc/ruby.html
+Slides here: https://gdi-nyc.github.io/intro-to-ruby-on-rails/
 
 
 
